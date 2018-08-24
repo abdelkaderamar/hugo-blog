@@ -7,8 +7,6 @@ tags:
 title: Hacker News Digest (30-06-2018 au 06-07-2018)
 ---
 
-{% include toc %}
-
 Ma sélection personnelle des sujets de la semaine sur
 [Hacker News](https://news.ycombinator.com/)
 
@@ -129,7 +127,7 @@ La bibliothèque de layout de graphe utilisée est
 - [Commentaires HN](https://news.ycombinator.com/item?id=17470161)
 
 ### [The Bulk of Software Engineering in 2018 Is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
-Dans le [HN digest](https://abdelkaderamar.github.io/posts/2018/06/11/hackernews_digest.html#for-more-and-more-people-work-appears-to-serve-no-purpose)
+Dans le [HN digest](/post/hackernews/2018/06/hacker-news-digest-02-06-2018-au-08-06-2018/)
 du 10 juin dernier, il y avait un article de David Graeber sur les *Bullshit
 Jobs* où l'une des catégories étaient celle des *duct tapers*. Dans cet article,
 l'auteur compare le métier de développeur informatique à celui de plombier. Et

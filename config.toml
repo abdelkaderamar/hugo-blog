@@ -11,7 +11,10 @@ metaDataFormat = "yaml"
 pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
-#googleAnalytics = "XXX"
+googleAnalytics = "UA-119584387-1"
+
+[permalinks]
+  post = "/:sections/:year/:month/:title/"
 
 [Params]
   subtitle = "Abdelkader Amar Personal Website"

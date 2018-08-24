@@ -7,8 +7,6 @@ tags:
 title: Hacker News Digest (26-05-2018 au 01-06-2018)
 ---
 
-{% include toc %}
-
 Ma sélection personnelle des sujets de la semaine sur
 [Hacker News](https://news.ycombinator.com/)
 

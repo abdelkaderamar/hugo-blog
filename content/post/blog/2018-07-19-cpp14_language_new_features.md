@@ -7,8 +7,6 @@ tags:
 title: 'C++14 : Résumé des nouveautés du langage (+Cheatsheet)'
 ---
 
-{% include toc %}
-
 La norme C++14 qui a été standardisée il y a déjà quatre ans, est
 considérée comme mineure si on la compare au C++11 et le C++17. Dans ce post,
 je vais décrire brièvement les changements apportés au langage (mais pas la
@@ -17,9 +15,9 @@ je vais décrire brièvement les changements apportés au langage (mais pas la
 
 J'ai également réalisé une cheatsheet qui peut être télécharger ci-dessous :
 
-![C++14 Language Cheatsheet]({{ site.url }}{{ site.baseurl }}/assets/images/cheatsheets/c++14_lang_cheatsheet.png )  
+![C++14 Language Cheatsheet](/assets/images/cheatsheets/c++14_lang_cheatsheet.png )  
 **Download**  
-[PDF]({{ site.url }}{{ site.baseurl }}/assets/pdf/cheatsheets/c++14_lang_cheatsheet.pdf) (A4) |
+[PDF](/assets/pdf/cheatsheets/c++14_lang_cheatsheet.pdf) (A4) |
 [Latex](https://github.com/abdelkaderamar/cheatsheets/blob/master/cpp/c%2B%2B14_lang_cheatsheet.tex)
 
 # `auto f(...)` : type de retour de fonction `auto`

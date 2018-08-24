@@ -7,8 +7,6 @@ tags:
 title: Hacker News Digest (02-06-2018 au 08-06-2018)
 ---
 
-{% include toc %}
-
 Ma sélection personnelle des sujets de la semaine sur
 [Hacker News](https://news.ycombinator.com/). La semaine qui vient de s'écouler
 a vu la plupart des sujets tourner autour de l'acquisition de Github par

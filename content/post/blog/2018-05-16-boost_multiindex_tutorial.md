@@ -10,8 +10,6 @@ date: 2018-05-16T21:30:00Z
 title: Utilisation de *Boost Multi-index*
 ---
 
-{% include toc %}
-
 # Introduction
 [Boost Multi-Index](http://www.boost.org/libs/multi_index) est une librairie
 qui fournit un type de conteneur de données appelé `multi_index_container`.

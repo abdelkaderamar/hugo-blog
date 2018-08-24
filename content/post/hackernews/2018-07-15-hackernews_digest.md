@@ -7,8 +7,6 @@ tags:
 title: Hacker News Digest (07-07-2018 au 13-07-2018)
 ---
 
-{% include toc %}
-
 Ma sélection personnelle des sujets de la semaine sur
 [Hacker News](https://news.ycombinator.com/)
 

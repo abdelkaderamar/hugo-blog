@@ -9,8 +9,6 @@ date: 2018-06-06T21:30:00Z
 title: La bibliothèque *Benchmark*
 ---
 
-{% include toc %}
-
 ## Introduction
 *Benchmark* est une bibliothèque C++ développée par *Google* pour faire des
 mesures de performances de fonctions. Son installation sous linux peut se faire

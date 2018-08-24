@@ -7,18 +7,16 @@ tags:
 title: 'C++17 : Résumé des nouveautés du langage (+Cheatsheet)'
 ---
 
-{% include toc %}
-
-Ce post est similaire à celui déjà posté sur le [C++14](https://abdelkaderamar.github.io/posts/2018/07/19/cpp14_language_new_features.html)
+Ce post est similaire à celui déjà posté sur le [C++14](https://abdelkaderamar.github.io/post/blog/2018/07/c--14--résumé-des-nouveautés-du-langage--cheatsheet/)
 mais concerne comme le titre l'indique les nouveautés de la norme C++17 pour le
 langage (et non la STL qui sera traité dans un autre article). Les exemples
 sont disponibles dans ce [repository](https://github.com/abdelkaderamar/cpp-samples/tree/master/src/c%2B%2B17).
 
 J'ai également réalisé une cheatsheet qui peut être téléchargéé ci-dessous :
 
-![C++17 Language Cheatsheet]({{ site.url }}{{ site.baseurl }}/assets/images/cheatsheets/c++17_lang_cheatsheet.png )  
+![C++17 Language Cheatsheet](/assets/images/cheatsheets/c++17_lang_cheatsheet.png )  
 **Download**  
-[PDF]({{ site.url }}{{ site.baseurl }}/assets/pdf/cheatsheets/c++17_lang_cheatsheet.pdf) (A4) |
+[PDF](/assets/pdf/cheatsheets/c++17_lang_cheatsheet.pdf) (A4) |
 [Latex](https://github.com/abdelkaderamar/cheatsheets/blob/master/cpp/c%2B%2B17_lang_cheatsheet.tex)
 
 # Déduction des arguments des templates de classe
@@ -68,7 +66,7 @@ auto sum_fold_exp(const Ts& ... ts) {
 ```
 
 Plus de détails sur cette fonctionnalité sont disponibles dans ce
-[post](https://abdelkaderamar.github.io/tutorials/posts/2018/06/13/fold_expression.html).
+[post](/post/blog/2018/06/c--17--fold-expressions/).
 
 # Déclarer les paramètres des templates (*template non-type arguments*) avec `auto`
 

@@ -7,8 +7,6 @@ tags:
 title: Hacker News Digest (04-05-2018 au 11-05-2018)
 ---
 
-{% include toc %}
-
 Dans cette série de billets, je listerai une sélection personnelle de quelques
 soumissions sur le site [Hacker News](https://news.ycombinator.com/) de la
 semaine précédente.
