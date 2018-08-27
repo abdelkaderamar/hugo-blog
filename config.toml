@@ -63,7 +63,7 @@ Paginate=5
     url = "post/blog"
     weight = 1
 [[menu.main]]
-    name = "Hacker News Digest"
+    name = "Hacker News"
     url = "post/hackernews"
     weight = 2
 [[menu.main]]
@@ -121,7 +121,7 @@ tag = "tags"
     url = "post/blog"
     weight = 1
   [[languages.en.menu.main]]
-    name = "Hacker News Digest"
+    name = "Hacker News"
     url = "post/hackernews"
     weight = 2
   [[languages.en.menu.main]]
