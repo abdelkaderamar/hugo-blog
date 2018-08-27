@@ -2,8 +2,7 @@
 categories:
 - Posts
 date: 2018-07-19T17:15:00Z
-tags:
-- C++, C++14
+tags: [ 'CPP', 'CPP14' ]
 title: 'C++14 : Résumé des nouveautés du langage (+Cheatsheet)'
 ---
 

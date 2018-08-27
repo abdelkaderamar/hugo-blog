@@ -16,12 +16,15 @@ d'Amazon [Alexa](https://fr.wikipedia.org/wiki/Amazon_Alexa) à un de leurs
 contacts. Amazon qui a confirmé l'incident a fourni une explication assez
 improbable selon laquelle l'assistant Alexa a interprété la conversation comme
 une suite d'actions et de confirmations.
+
    - Le couple : conversation => Alexa entend "*Send a message*"
    - Alexa : "*To whom ?*" => La conversation interprétée comme "*[Nom
    du destinataire]*"
    - Alexa : "*[Nom du destinataire], right ?*" => La conversation interprétée
    comme : "*Right*"
+
 Presque 700 cents commentaires sur HN.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17145204&p=2)
 
 ### [Bitcoin Gold Hit by Double Spend Attack, Exchanges Lose Millions](https://www.ccn.com/bitcoin-gold-hit-by-double-spend-attack-exchanges-lose-millions/)
@@ -30,11 +33,13 @@ voler des millions de dollars (environ 18 millions). L'attaque a été exécuté
 prenant le contrôle de 51% de la puissance de calcul du réseau. Avec ce
 contrôle, les hackers ont pu utiliser la technique du *[double-spending](https://en.wikipedia.org/wiki/Double-spending)* qui
 permet de dépenser des coins puis d'effacer la transaction.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17138356)
 
 ### [	82-Year-Old Japanese Woman Finds Success in Coding](https://www.aarp.org/work/working-at-50-plus/info-2018/worlds-oldest-app-developer-fd.html)
 L'histoire d'une japonaise de 82 ans qui a développé un jeu mobile sur *iOS*. Un
 exemple fascinant d'un esprit ouvert à l'apprentissage.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17120448)
 
 ### [Tildes – A non-profit community site driven by its users' interests](https://blog.tildes.net/announcing-tildes)
@@ -46,7 +51,7 @@ semaines à venir. En lisant les commentaires, j'ai découvert un projet de
 création de communauté de discussion [talkyard](https://www.talkyard.io). Le
 code source de ce projet est disponible sur [Github](https://github.com/debiki/talkyard).
 
-![Tildes]({{ site.url }}{{ site.baseurl }}/assets/images/tildes-screenshot.png )
+![Tildes](/assets/images/tildes-screenshot.png )
 
 - [Commentaires HN](https://news.ycombinator.com/item?id=17103093)
 

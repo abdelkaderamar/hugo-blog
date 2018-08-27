@@ -14,6 +14,7 @@ Ma sélection personnelle des sujets de la semaine sur
 ### [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
 Ce sujet est l'occasion de découvrir les choix de la communauté de
 HackerNews en terme de lecture. Voici ma short liste de livres à tester :
+
 - [12 Rules for Life](https://en.wikipedia.org/wiki/12_Rules_for_Life) de Jordan
 Peterson
 - [Why We Sleep](https://www.amazon.fr/Why-We-Sleep-Unlocking-Dreams/dp/1501144316) de Matthew Walker
@@ -46,6 +47,7 @@ Avec le focus directement dans la zone d'édition :
  ```
  data:text/html, <html><body id='.' contenteditable style="font: 2rem/1.5 monospace;max-width:60rem;margin:0 auto;padding:4rem;color:white;background-color:black;"></body><script type="text/javascript">var div = document.getElementById('.');setTimeout(function() {div.focus();}, 0);</script></html>
 ```
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17506753)
 
 ### [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
@@ -54,6 +56,7 @@ distribués à large échelle. En plus de la description des différentes
 composantes d'un système distribués, le projet contient une série de
 *Flashcards Anki* pour retenir les différents concepts et s'exercer aux
 algorithmes et à la programmation.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17522362)
 
 ### [Seedbank – Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
@@ -64,6 +67,7 @@ Ce sujet m'a permis de découvrir l'outil Google
 qui offre un environnement Python2/Python3 pour les tests sur le machine
 learning. Cet outil s'exécute sur un navigateur et propose d'utiliser
 des GPUs gratuitement (dans une certaine limite).
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17516709)
 
 
@@ -74,6 +78,7 @@ quitte ses fonctions de BDFL (*Benevolent Dictator for Life*). Après plus de 27
 s'éloigner du cercle de décision sur le projet. Pour la suite, il
 laisse à la communauté le choix du mode de fonctionnement qu'elle veut mettre en
 place.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17515492)
 
 <!--

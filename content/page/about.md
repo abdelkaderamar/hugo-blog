@@ -1,6 +1,5 @@
 ---
-title: About me
-#subtitle: 
+title: A Propos
 comments: false
 ---
 

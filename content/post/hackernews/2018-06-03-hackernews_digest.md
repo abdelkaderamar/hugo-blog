@@ -18,6 +18,7 @@ web côté *frontend*, et donc dans les changements fréquents dans les biblioth
 plus jeune bibliothèques a seulement deux ans, et les deux premières, React et
   Vue, ont respectivement 3 et 2,5 ans. L'auteur identifie trois facteurs
   principaux pour cette instabilité des technlogies :
+
   - *L'architecture micro-bibliothèques* : cette architecture utilisée par
   *React* et d'autres bibliothèques Javascript permet une grande flexibilité,
   mais en même temps augmente les risque de *breaking changes*.
@@ -47,6 +48,7 @@ L'auteur est très critique sur ce dernier, et en particuliers sur les
 pseudo-certifications de quelques jours pour obtenir le titre de *Scrum Master*.
 Selon l'auteur, le rôle du *Scrum Master* devrait être attribué à un leader
 technique avec des capacité de management.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17186591)
 
 ### [Show HN: Cost of a 51% Attack on Popular Cryptocurrencies](https://www.crypto51.app)
@@ -64,6 +66,7 @@ de calcul pour mener l'attaque. Par exemple, dans le cas du *Bicoin*, *Nicehash*
  une puissance de minage suffisante pour attaquer plusieurs cryptomonnaies (
    ces cryptomonnaies sont celles où *Nicehash* propose plus que 100% de la
    puissance de minage.)
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17173051)
 
 ### [Macron Vowed to Make France a ‘Startup Nation.’ Is It Getting There?](https://www.nytimes.com/2018/05/23/business/emmanuel-macron-france-technology.html)
@@ -78,7 +81,8 @@ l'estimation de la rentabilité d'un investissment en France.
 En plus de l'avis du *New York Times*, les commentaires de *Hacker News* sont
 l'occasion de lire l'avis des lecteurs sur la France (certains sont français,
   d'autres travaillent ou ont travaillé en France mais une grande majorité n'est
-  pas directement sur le terrain).  
+  pas directement sur le terrain).
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17169314)
 
 ### [The Importance of Deep Work and the 30-Hour Method for Learning a New Skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)
@@ -86,6 +90,7 @@ L'article est sur méthode de productivité présentée par
 [Cal Newport](https://en.wikipedia.org/wiki/Cal_Newport) dans son livre
 [Deep Work](https://www.amazon.fr/Deep-work-retrouver-concentration-distractions/dp/B06XXVRZJC). L'auteur se base sur cette méthode dans le domaine d'apprentissage de nouvelles
 compétences en informatique.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17163251)
 
 <!--

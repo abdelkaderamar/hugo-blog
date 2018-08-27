@@ -2,8 +2,7 @@
 categories:
 - Posts
 date: 2018-08-21T10:00:00Z
-tags:
-- C++, C++17
+tags: ["CPP", "CPP17"]
 title: 'C++17 : Résumé des nouveautés du langage (+Cheatsheet)'
 ---
 

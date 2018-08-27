@@ -1,15 +1,9 @@
 ---
-categories:
-- hackernews
 date: 2018-07-22T12:00:00Z
-tags:
-- hackernews
+tags: [ "hackernews" ]
 title: Hacker News Digest (14-07-2018 au 20-07-2018)
+# toc: true
 ---
-
-Ma sélection personnelle des sujets de la semaine sur
-[Hacker News](https://news.ycombinator.com/)
-
 
 # [C++ Coroutine Types](https://abseil.io/blog/20180713-coroutine-types)
 Un article qui parle du design des coroutines dans la prochaine norme C++20.

@@ -4,10 +4,8 @@ categories:
 - Posts
 classes: wide
 date: 2018-05-16T21:30:00Z
-'tags:':
-- C++
-- Boost
-title: Utilisation de *Boost Multi-index*
+tags: ["CPP", "Boost"]
+title: Utilisation de Boost Multi-index
 ---
 
 # Introduction
@@ -40,6 +38,7 @@ multi_index_container<
 ```
 
 Où :
+
 - `TYPE` est le type de données manipulé par le conteneur.
 - `{INDEX(ES)}` est un ou plusieurs index.
 
@@ -97,6 +96,7 @@ contraire, c'est l'index `ordered_non_unique`.
 
 Pour le critère de tri, l'API propose plusieurs méthodes utilitaires selon les
 besoins :
+
 1. **Tri selon les éléments stockés :** si on veut que les éléments soient triés (
   dans ce cas, le type d'élément doit avoir l'opérateur `<` défini), on utilise
   la méthode utilitaire `member`. Voici un exemple d'utilisation où on obtient
@@ -179,6 +179,7 @@ copy(container.begin(), container.end(), ostream_iterator<stock>(cout, "\n"));
 L'utilisation de plusieurs index dans le même conteneur se fait simplement en
 définissant les différents index dans la partie `indexed_by`. Voici comment
 définir un conteneur qui propose les accès suivants :
+
 - Accès aléatoire.
 - Triés sur les éléments (uniques).
 - Tri sur l'attribut `_isin`.
@@ -243,6 +244,7 @@ stock st_gobain = *it;
 st_gobain._ric = "SGOB.PA";
 container.replace(it, st_gobain);
 ```
+
 2. Utilisation d'un functor ou d'une fonction avec la méthode *modify*
   - functor
 ```cpp
@@ -254,7 +256,8 @@ private:
 };
 container.modify(it, change_ric{"BNPP.PA"});
 ```
-  - fonction
+[comment]: __
+   - fonction
 ```cpp
   auto upd_func = [](stock &s) { s._ric = "TOTF.PA"; };
   container.modify(it, upd_func);

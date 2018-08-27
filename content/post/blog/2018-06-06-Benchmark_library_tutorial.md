@@ -4,9 +4,8 @@ categories:
 - Posts
 classes: wide
 date: 2018-06-06T21:30:00Z
-'tags:':
-- C++
-title: La bibliothèque *Benchmark*
+tags: [ "CPP", "Performance" ]
+title: La bibliothèque Benchmark
 ---
 
 ## Introduction
@@ -44,7 +43,7 @@ int main(int argc, char* argv[])
 
 Le screenshot ci-dessous montre le résultat d'exécution :
 
-![Benchrmark - Premier test]({{ site.url }}{{ site.baseurl }}/assets/images/google-benchmark-screenshot-01.png )
+![Benchrmark - Premier test](/assets/images/google-benchmark-screenshot-01.png )
 
 Les deux colonnes *Time* et *CPU* correspondent respectivement au temps
 d'exécution moyen de la fonction et au temps d'exécution CPU moyen. La dernière
@@ -53,6 +52,7 @@ colonne montre le nombre d'exécution de la fonction à mesurer (le code à
 
 Par défaut, c'est la bibliothèque qui détermine le nombre d'itération. La règle utilisée (pour la version testée) est de faire un nombre d'itération
 qui respecte les deux conditions suivantes :
+
 - Pas plus d'un milliard d'itérations.
 - Le temps d'exécution CPU total dépasse le paramètre
 `benchmark_min_time` (il est de 0.5 seconde par défaut) ou le temps
@@ -86,7 +86,7 @@ int inc_and_wait(const int x) {
 ```
 
 Le résultat du benchmarking est le suivant :
-![Benchrmark - Deuxième test]({{ site.url }}{{ site.baseurl }}/assets/images/google-benchmark-screenshot-02.png )
+![Benchrmark - Deuxième test](/assets/images/google-benchmark-screenshot-02.png )
 
 La première a été exécutée jusqu'à ce que le temps CPU consommé dépasse
 0.5 seconde (43801038 x 15 ns), alors que la seconde s'est exécutée une
@@ -100,7 +100,7 @@ int inc_and_wait(const int x) {
 }
 ```
 
-![Benchrmark - Premier test]({{ site.url }}{{ site.baseurl }}/assets/images/google-benchmark-screenshot-03.png )
+![Benchrmark - Premier test](/assets/images/google-benchmark-screenshot-03.png )
 
 On remarque que le nombre d'itération n'est pas de 2 (2x2=4 > 2.5) mais
 de dix. En effet, la bibliothèque utilise un facteur d'expansion de 10
@@ -117,7 +117,7 @@ int inc_and_wait(const int x) {
 }
 ```
 
-![Benchrmark - Premier test]({{ site.url }}{{ site.baseurl }}/assets/images/google-benchmark-screenshot-04.png )
+![Benchrmark - Premier test](/assets/images/google-benchmark-screenshot-04.png )
 
 ## Macros
 
@@ -136,6 +136,7 @@ BENCHMARK_MAIN();
 
 Dans le cas où on veut effectuer le benchmarking d'une fonction plusieurs fois
 avec des paramètres différents, la bibliothèque propose deux méthode de le faire :
+
 - En faisant appel à la méthode `Arg(int)`. Le paramètre de cette dernière est
 passé à l'objet `state` et peut être récupéré avec la méthode `state.range(0)`.
 ```
@@ -248,4 +249,4 @@ BENCHMARK(benchmark_insert_map)
     ->Complexity();
 ```
 Le résultat est illustré dans le screenshot ci-dessous:
-![Benchrmark - Premier test]({{ site.url }}{{ site.baseurl }}/assets/images/google-benchmark-screenshot-05.png )
+![Benchrmark - Premier test](/assets/images/google-benchmark-screenshot-05.png )

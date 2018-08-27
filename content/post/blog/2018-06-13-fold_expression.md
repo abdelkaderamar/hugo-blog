@@ -4,9 +4,7 @@ categories:
 - Posts
 classes: wide
 date: 2018-06-13T23:48:00Z
-'tags:':
-- C++
-- C+17
+tags: [ "CPP", "CPP17" ]
 title: 'C++17 : Fold Expressions'
 ---
 

@@ -16,12 +16,14 @@ quelques interrogations sur la façon dont la démo a été présentée (pas
 d'identification de la personne qui répond ni de l'IA, pas de bruit de fond dans
 le salon de coiffure, pas de numéro de téléphone fournie après confirmation de
 la réservation). Pour l'instant, Google n'a fait aucun commentaire.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17094231)
 
 ### [	College May Not Be Worth It Anymore](https://www.nytimes.com/2018/05/16/opinion/college-useful-cost-jobs.html)
 Un article sur les avantages d'avoir un diplôme universitaire aux Etats-Unis.
 L'article ne décourage pas de poursuivre des études supérieures, mais note
 les différents facteurs qui rendent cet avantage moins important.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17092485)
 
 
@@ -37,6 +39,7 @@ les coyotes et leurs inventions (et dans la finance c'est eux qui créent les
 bulles et les crises). Actuellement, les coyotes ont inventés les
 cryptomonnaies pour changer les choses, les ratons laveurs créent la bulle
 pour en profiter et les états veulent se débarasser des coyotes.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17079369)
 
 
@@ -48,6 +51,7 @@ commises ainsi que des leçons apprises pendant le développement de ce logiciel
 open-source qui a su garder son indépendance. Un article plaisant à lire de
 quelqu'un qui a réussi à créer une société à but non lucratif mais profitable
 depuis un an.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17082228)
 
 
@@ -61,9 +65,11 @@ Techniques, Plateformes, Langages et Outils.
 Un projet *Github* contenant une longue liste de liens organisés en catégories
 sur des sujets de programmation variés. Dans les commentaires *HN*, on trouve
 d'autres liens vers projets similaires.
+
   - https://github.com/tuvtran/project-based-learning
   - https://github.com/AlgoryL/Projects-from-Scratch
   - https://github.com/rby90/Project-Based-Tutorials-in-C
+
 
 - [Commentaires HN](https://news.ycombinator.com/item?id=17054419)
 
@@ -71,4 +77,5 @@ d'autres liens vers projets similaires.
 ### [Show HN: HackerForums.co, a forum for the crowd that hangs out on HN](https://hackerforums.co/)
 Un forum pour les utilisateurs de *HackerNews*. C'est encore le début donc il y
 a peu de sujets.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17091262)

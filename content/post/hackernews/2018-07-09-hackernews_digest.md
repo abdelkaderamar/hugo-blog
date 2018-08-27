@@ -19,13 +19,16 @@ collègues au sujet d'un livre très célèbre *Thinking, Fast and Slow*, il ava
 du mal à décrire et à parler contenu de ce livre. Donc il est parti de l'idée
 que l'apprentissage se base souvent sur la répétition, alors que les livres
 sont souvent longs et verbeux.
+
 La méthode se divise en deux étapes principales :
+
 1. Lire en annotant le livre.
 2. A la fin de lecture, écrire un résumé du livre. En  plus du résumé classique,
 l'auteur recommande d'utiliser des *flashcards* avec l'application *Anki*.
 
 Pour la lecture, l'auteur recommande d'utiliser des symboles pour préciser le
 sens de l'annotation. Les symboles que lui-même utilise sont :
+
 - `Q`  : ajouter une flashcard lors de la rédaction du résumé
 - `?` : ajouter une flashcard après avoir effectuer des recherches
 - `r?`: effectuer plus de recherches sur le sujet
@@ -37,6 +40,7 @@ sens de l'annotation. Les symboles que lui-même utilise sont :
 
 Pour l'écriture du résumé, l'auteur recommande de de le faire le même jour que
 la fin de la lecture. L'auteur utilise le modèle suivant pour ses résumés :
+
 - *Avis* : des notes sur les avis sur le livre.
 - *Résumé* : en plus ajouter aussi les annotations marquées `Q` en tant que
  flashcard.
@@ -72,6 +76,7 @@ La technologie Blockchain existe depuis plus de neuf ans, mais l'engouement
 autour d'elle n'est apparue que les deux ou trois dernières années, sans qu'il
 n'y ai une réelle application autour de cette technologie (bien sûr en dehors
   des cryptomonnaies).
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17387782)
 
 ### [Jonathan Blow: “C++ is a weird mess”](https://www.gamesindustry.biz/articles/2018-07-02-jonathan-blow-c-is-a-weird-mess)
@@ -87,7 +92,8 @@ même avoir une telle réputation, j'ai souvent vu des nouveaux projets
 informatiques vendre des solutions qui corrigent les défauts des systèmes
 existants juste avec la promesse que si c'est nouveau c'est forcément mieux que
 l'ancient. Je trouve que cela rend le développement logiciel dans l'informatique
-effrayant et plein d'espoir à la fois.  
+effrayant et plein d'espoir à la fois.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17454097)
 
 ### [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
@@ -95,11 +101,13 @@ Dans cet article, l'auteur parle de l'expérience de l'équipe d'Udacity avec
 *React Native* pour le développement des applications mobiles avec ce
 framework. Finalement, *React Native* a été finalement abandonné, mais
 l'auteur parle de ce qui a bien marché et de ce qui a moins bien fonctionné.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17455351)
 
 ### [Founder to CEO: How to build a great company from the ground up](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.pdmqf3646hgt)
 Un livre gratuit sur comment construire une entreprise. Le livre est divisé en
 sept parties :
+
 1. Le début
 2. Les habitudes individuelles
 3. Les habitudes de groupe
@@ -113,6 +121,7 @@ sept parties :
 ### [Show HN: Snibox – Self-hosted snippets manager](https://github.com/snibox/snibox)
 Un petit projet en cours de développement pour héberger chez soi un serveur de
 gestion de snippets
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17456720)
 
 ### [A graph of programming languages connected through compilers](https://akr.am/languages/)
@@ -134,10 +143,12 @@ l'auteur compare le métier de développeur informatique à celui de plombier. E
 surtout l'auteur constate qu'il y a une réelle différence entre les compétences
 demandées lors des entretiens d'embauches et les compétences utilisées après
 le recrutement.
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17483640)
 
 ### [The software developer's life manual](https://github.com/n0ruSh/the-art-of-reading/issues/12)
 Les notes de lecture du livre [Soft Skills: The software developer's life manual](https://www.amazon.fr/Soft-Skills-software-developers-manual/dp/1617292397/).
+
 - [Commentaires HN](https://news.ycombinator.com/item?id=17478820)
 
 <!--
