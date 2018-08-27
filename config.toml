@@ -1,4 +1,4 @@
-baseurl = "https://abdelkaderamar.github.io"
+baseurl = "https://abdelkaderamar.github.io/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "public"
@@ -66,7 +66,7 @@ googleAnalytics = "UA-119584387-1"
     url = "post/hackernews"
     weight = 2
 [[menu.main]]
-    name = "Tutorials"
+    name = "Tutoriaux"
     url = "post/blog/tutorials"
     weight = 3
 [[menu.main]]
@@ -74,7 +74,7 @@ googleAnalytics = "UA-119584387-1"
     url = "tags"
     weight = 4
 [[menu.main]]
-    name = "About"
+    name = "A Propos"
     url = "page/about/"
     weight = 5
 
@@ -107,31 +107,31 @@ tag = "tags"
 
 
 [languages]
-  [languages.en]
-    title = "A. Amar's Blog"
-    weight = 1
   [languages.fr]
     title = "A. Amar"
-    weight = 2
+    weight = 1
   [languages.fr.Params]
     subtitle = "Site Personnel d'Abdelkader Amar"
-  [[languages.fr.menu.main]]
+  [languages.en]
+    title = "A. Amar's Blog"
+    weight = 2
+  [[languages.en.menu.main]]
     name = "Blog"
     url = "post/blog"
     weight = 1
-  [[languages.fr.menu.main]]
+  [[languages.en.menu.main]]
     name = "Hacker News Digest"
     url = "post/hackernews"
     weight = 2
-  [[languages.fr.menu.main]]
-    name = "Tutoriaux"
+  [[languages.en.menu.main]]
+    name = "Tutorials"
     url = "post/blog/tutorials"
     weight = 3
-  [[languages.fr.menu.main]]
+  [[languages.en.menu.main]]
     name = "Tags"
     url = "tags"
     weight = 4
-  [[languages.fr.menu.main]]
-    name = "A Propos"
+  [[languages.en.menu.main]]
+    name = "About"
     url = "page/about/"
     weight = 5
