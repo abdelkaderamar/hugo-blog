@@ -2,10 +2,12 @@
 date: 2018-07-22T12:00:00Z
 tags: [ "hackernews" ]
 title: Hacker News Digest (14-07-2018 au 20-07-2018)
-# toc: true
+toc: true
 ---
 
-# [C++ Coroutine Types](https://abseil.io/blog/20180713-coroutine-types)
+<!--more-->
+
+# C++ Coroutine Types
 Un article qui parle du design des coroutines dans la prochaine norme C++20.
 Cette fonctionnalité permettra d'écrire des fonctions qui peuvent être
 suspendues puis redémarrées, le but étant de pouvoir écrire plus facilement
@@ -14,9 +16,12 @@ du code asynchrone.
 Le type permettant d'écrire des coroutines n'est pas encore défini mais les spécifications s'orientent vers un type dans la STL qui s'appelera
 `std::task<T>`.
 
+**Liens**
+
+- [Article](https://abseil.io/blog/20180713-coroutine-types)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17527618)
 
-# [Reflections on Three Years of Reading Knuth](http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070)
+# Reflections on Three Years of Reading Knuth
 
 L'auteur a passé trois ans à lire les trois tomes de "The Art of Programming" de
 *Donald Knuth* et résume ses impressions sur l'utilité de cet ouvrage considéré
@@ -24,20 +29,25 @@ comme beaucoup comme une référence mais que très peu de personnes ont lu
 effectivement. L'auteur admet la difficulté de l'ouvrage et cite certaines
 parties qui sont inutiles maintenant (par exemple la partie sur la gestion de
 la mémoire sur bandes magnétique). L'avis de l'auteur peut se résumer ainsi :
+
 - l'ouvrage demande beaucoup de temps, si vous en manquez, dirigez vous plutôt
 vers des ouvrages plus orientés "entreprise"
 - l'assembleur n'est pas un obstacle pour la compréhension car il ne représente
 qu'une petite partie du code. Le reste est fait en pseudocode facile à
 comprendre.
 
+**Liens**
+
+- [Reflections on Three Years of Reading Knuth](http://commandlinefanatic.com/cgi-bin/showarticle.cgi?article=art070)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17546734)
 
-# [The Data Transfer Project](https://datatransferproject.dev/)
+# The Data Transfer Project
 
 Un projet qui a pour objectif de fournir un service de transfert de données
 entre différents fournisseurs. Pour cela, le projet s'intéresse à
 l'interopérabilité des services et à la portabilité des données. Parmi les
 exemples d'utilisation possible :
+
 - changement du fournisseur de services (photos, drive, etc.)
 - utilisation du service d'un autre fournisseur que celui sur lequel sont
 stockées les données
@@ -51,14 +61,18 @@ pour l'image Docker. A noter qu'il faut une clé développeur pour chaque
 fournisseur de service à utiliser. Parmi les fournisseurs impliqués dans ce
 projet, on trouve Google, Twitter, Microsoft, et Instagram.
 
+**Liens**
+
+- [The Data Transfer Project](https://datatransferproject.dev/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17574707)
 
-# [Farewell, Google Maps](https://www.inderapotheke.de/blog/farewell-google-maps)
+# Farewell, Google Maps
 
 Cette startup allemande a eu la mauvaise surprise de recevoir au mois de Juin
 un mail de Google leur annonçant un changement de la politique tarifaire de ce
 dernier pour l'utilisation de son service Google Maps. Après avoir contacté
 le service client de Google, elle a eu les détails du changement :
+
 - l'usage gratuit passe de 750K requêtes à 28k requêtes (divisé par plus de 30).
 - le prix de l'utilisation commerciale de chaque 1000 requêtes passe de 0.5$ à
 7$ (multiplé par 14)
@@ -78,22 +92,31 @@ L'article soulève à la fin un point très important. Ce changement brusque des
 tarifs de Google va réduire la confiance des entreprises pour dépendre des
 autres services de Google. L'utilisation d'outils comme *Leaflet* peut s'avérer très utile pour éviter la dépendance à un seul fournisseur.
 
+**Liens**
+
+- [Farewell, Google Maps](https://www.inderapotheke.de/blog/farewell-google-maps)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17570029)
 
-# [Show HN: How to make your Python code more idiomatic – 25 tips and tricks](https://github.com/jerry-git/learn-python3#idiomatic-python)
+# Show HN: How to make your Python code more idiomatic – 25 tips and tricks
 
 Un projet *Github* qui propose un ensemble de recommandation pour améliorer son
 code *Python*.
 
+**Liens**
+
+- [Show HN: How to make your Python code more idiomatic – 25 tips and tricks](https://github.com/jerry-git/learn-python3#idiomatic-python)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17529326)
 
-# [“Real developers don't use UIs”: The value of web UIs for CLI-oriented users](https://medium.com/design-ibm/real-developers-dont-use-uis-daea7404fb4e)
+# “Real developers don't use UIs”: The value of web UIs for CLI-oriented users
 Un article assez long mais divertissant sur interfaces utilisateurs en ligne
 de commande (CLI) versus les interfaces graphiques (GUI) dans le domaine du web
 en particulier. L'auteur détaille les avantages et les particularités de
 chacune des deux types d'interface. Il conclut sur le fait que les deux
 interfaces doivent être complémentaires et non redondantes.
 
+**Liens**
+
+- [“Real developers don't use UIs”: The value of web UIs for CLI-oriented users](https://medium.com/design-ibm/real-developers-dont-use-uis-daea7404fb4e)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17559973)
 
 
