@@ -7,9 +7,7 @@ tags:
 title: Hacker News Digest (04-05-2018 au 11-05-2018)
 ---
 
-Dans cette série de billets, je listerai une sélection personnelle de quelques
-soumissions sur le site [Hacker News](https://news.ycombinator.com/) de la
-semaine précédente.
+<!--more-->
 
 ### Conversations with a six-year-old on functional programming
 Un billet de blog d'un professeur d'université dans lequel il décrit comment

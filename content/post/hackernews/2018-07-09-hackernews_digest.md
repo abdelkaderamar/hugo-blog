@@ -2,16 +2,14 @@
 categories:
 - hackernews
 date: 2018-07-09T23:02:00Z
-tags:
-- hackernews
+tags: [ "hackernews" ]
 title: Hacker News Digest (30-06-2018 au 06-07-2018)
+toc: true
 ---
 
-Ma sélection personnelle des sujets de la semaine sur
-[Hacker News](https://news.ycombinator.com/)
+<!--more-->
 
-
-### [How to read](https://robertheaton.com/2018/06/25/how-to-read/)
+# How to read
 Dans cet article, l'auteur parle du système qu'il a mis en place pour ses
 lectures de livres. Tout est parti le jour où il a constaté qu'il avait du mal
 à se rappeler du contenu des livres qu'il lisait. En discutant avec ses
@@ -56,9 +54,12 @@ semble être moins ergonomique. Parmi les commentaires, le livre de
 Mortimer Adler et Charles Van Doren
 [*How to Read a Book: The Classic Guide to Intelligent Reading*](https://www.amazon.fr/How-Read-Book-Classic-Intelligent/dp/0671212095/) est recommandé.
 
+**Liens**
+
+- [How to read](https://robertheaton.com/2018/06/25/how-to-read/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17424652)
 
-### [Blockchain 2018 == NoSQL 2009](https://blog.beerriot.com/2018/06/05/blockchain-2018-nosql-2009/)
+# Blockchain 2018 == NoSQL 2009
 Contrairement à ce que laisse penser le titre de l'article, ce n'est pas
 une critique de la technologie Blockchain. L'auteur a fait partie du mouvement
 NoSQL (en développant *Riak*) et il fait partie actuellement d'une équipe chez
@@ -77,9 +78,12 @@ autour d'elle n'est apparue que les deux ou trois dernières années, sans qu'il
 n'y ai une réelle application autour de cette technologie (bien sûr en dehors
   des cryptomonnaies).
 
+**Liens**
+
+- [Blockchain 2018 == NoSQL 2009](https://blog.beerriot.com/2018/06/05/blockchain-2018-nosql-2009/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17387782)
 
-### [Jonathan Blow: “C++ is a weird mess”](https://www.gamesindustry.biz/articles/2018-07-02-jonathan-blow-c-is-a-weird-mess)
+# Jonathan Blow: “C++ is a weird mess”
 [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow), l'une des figures
 dans le domaine du développement de jeux vidéos, parle de la complexité du
 langage C++ et de son écosystème. Avec son nouveau langage *Jai*, il promet
@@ -94,17 +98,23 @@ existants juste avec la promesse que si c'est nouveau c'est forcément mieux que
 l'ancient. Je trouve que cela rend le développement logiciel dans l'informatique
 effrayant et plein d'espoir à la fois.
 
+**Liens**
+
+- [Jonathan Blow: “C++ is a weird mess”](https://www.gamesindustry.biz/articles/2018-07-02-jonathan-blow-c-is-a-weird-mess)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17454097)
 
-### [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
+# React Native: A retrospective from the mobile-engineering team at Udacity
 Dans cet article, l'auteur parle de l'expérience de l'équipe d'Udacity avec
 *React Native* pour le développement des applications mobiles avec ce
 framework. Finalement, *React Native* a été finalement abandonné, mais
 l'auteur parle de ce qui a bien marché et de ce qui a moins bien fonctionné.
 
+**Liens**
+
+- [React Native: A retrospective from the mobile-engineering team at Udacity](https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17455351)
 
-### [Founder to CEO: How to build a great company from the ground up](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.pdmqf3646hgt)
+# Founder to CEO: How to build a great company from the ground up
 Un livre gratuit sur comment construire une entreprise. Le livre est divisé en
 sept parties :
 
@@ -116,15 +126,21 @@ sept parties :
 6. Les processus
 7. Les autres départements
 
+**Liens**
+
+- [Founder to CEO: How to build a great company from the ground up](https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/edit#heading=h.pdmqf3646hgt)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17446839)
 
-### [Show HN: Snibox – Self-hosted snippets manager](https://github.com/snibox/snibox)
+# Show HN: Snibox – Self-hosted snippets manager
 Un petit projet en cours de développement pour héberger chez soi un serveur de
 gestion de snippets
 
+**Liens**
+
+- [Show HN: Snibox – Self-hosted snippets manager](https://github.com/snibox/snibox)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17456720)
 
-### [A graph of programming languages connected through compilers](https://akr.am/languages/)
+# A graph of programming languages connected through compilers
 L'auteur de ce projet a modélisé les langages de programmation et leurs
 compilateur sous la forme d'un graphe. Les nœuds du graphe sont les langages
 alors que les arêtes sont les compilateurs. Une arête reliant deux langages de
@@ -133,9 +149,12 @@ programme en langage L1 vers le langage L2. Le graphe contient 44 langages.
 La bibliothèque de layout de graphe utilisée est
 [*cytoscape-cose-bilkent*](https://github.com/cytoscape/cytoscape.js-cose-bilkent).
 
+**Liens**
+
+- [A graph of programming languages connected through compilers](https://akr.am/languages/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17470161)
 
-### [The Bulk of Software Engineering in 2018 Is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
+# The Bulk of Software Engineering in 2018 Is Just Plumbing
 Dans le [HN digest](/post/hackernews/2018/06/hacker-news-digest-02-06-2018-au-08-06-2018/)
 du 10 juin dernier, il y avait un article de David Graeber sur les *Bullshit
 Jobs* où l'une des catégories étaient celle des *duct tapers*. Dans cet article,
@@ -144,11 +163,17 @@ surtout l'auteur constate qu'il y a une réelle différence entre les compétenc
 demandées lors des entretiens d'embauches et les compétences utilisées après
 le recrutement.
 
+**Liens**
+
+- [The Bulk of Software Engineering in 2018 Is Just Plumbing](https://www.karllhughes.com/posts/plumbing)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17483640)
 
-### [The software developer's life manual](https://github.com/n0ruSh/the-art-of-reading/issues/12)
+# The software developer's life manual
 Les notes de lecture du livre [Soft Skills: The software developer's life manual](https://www.amazon.fr/Soft-Skills-software-developers-manual/dp/1617292397/).
 
+**Liens**
+
+- [The software developer's life manual](https://github.com/n0ruSh/the-art-of-reading/issues/12)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17478820)
 
 <!--

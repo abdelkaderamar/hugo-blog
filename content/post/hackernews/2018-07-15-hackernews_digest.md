@@ -2,16 +2,14 @@
 categories:
 - hackernews
 date: 2018-07-15T16:35:00Z
-tags:
-- hackernews
+tags: ["hackernews"]
 title: Hacker News Digest (07-07-2018 au 13-07-2018)
+toc: true
 ---
 
-Ma sélection personnelle des sujets de la semaine sur
-[Hacker News](https://news.ycombinator.com/)
+<!--more-->
 
-
-### [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
+# Ask HN: 2018 Summer Reading List?
 Ce sujet est l'occasion de découvrir les choix de la communauté de
 HackerNews en terme de lecture. Voici ma short liste de livres à tester :
 
@@ -23,9 +21,12 @@ de Thomas J. Stanley
 - [Deep work](https://www.amazon.fr/Deep-work-retrouver-concentration-distractions/dp/B06XXVRZJC)
 de Cal Newport
 
+**Liens**
+
+- [Ask HN: 2018 Summer Reading List?](https://news.ycombinator.com/item?id=17513576)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17513576)
 
-### [Show HN: Markdown New Tab – A new tab replacement to jot down notes in Markdown](https://github.com/plibither8/markdown-new-tab)
+# Show HN: Markdown New Tab – A new tab replacement to jot down notes in Markdown
 Une extension chrome qui permet d'avoir une page de prise de note lors
 de l'ouverture d'une nouvelle tab. Elle me sera bien utile pour garder
 une trace des liens Hacker News et de mes notes pour cette série de posts (mais pas seulement). Le lien vers le plugin dans le store chrome est [ici](https://chrome.google.com/webstore/detail/markdown-new-tab/demppioeofcekpjcnlkmdjbabifjnokj). Il y a également un autre plugin,
@@ -48,18 +49,24 @@ Avec le focus directement dans la zone d'édition :
  data:text/html, <html><body id='.' contenteditable style="font: 2rem/1.5 monospace;max-width:60rem;margin:0 auto;padding:4rem;color:white;background-color:black;"></body><script type="text/javascript">var div = document.getElementById('.');setTimeout(function() {div.focus();}, 0);</script></html>
 ```
 
+**Liens**
+
+- [Show HN: Markdown New Tab – A new tab replacement to jot down notes in Markdown](https://github.com/plibither8/markdown-new-tab)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17506753)
 
-### [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+# Learn how to design large-scale systems
 Un projet Github intéressant qui décrit la conception de systèmes
 distribués à large échelle. En plus de la description des différentes
 composantes d'un système distribués, le projet contient une série de
 *Flashcards Anki* pour retenir les différents concepts et s'exercer aux
 algorithmes et à la programmation.
 
+**Liens**
+
+- [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17522362)
 
-### [Seedbank – Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
+# Seedbank – Collection of Interactive Machine Learning Examples
 Un ensemble d'exemples de programmes *Python* sur le
 [*machine learning*](https://fr.wikipedia.org/wiki/Apprentissage_automatique).
 Ce sujet m'a permis de découvrir l'outil Google
@@ -68,10 +75,13 @@ qui offre un environnement Python2/Python3 pour les tests sur le machine
 learning. Cet outil s'exécute sur un navigateur et propose d'utiliser
 des GPUs gratuitement (dans une certaine limite).
 
+**Liens**
+
+- [Seedbank – Collection of Interactive Machine Learning Examples](http://tools.google.com/seedbank/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17516709)
 
 
-### [I'm basically giving myself a permanent vacation from being BDFL](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
+# I'm basically giving myself a permanent vacation from being BDFL
 Le créateur du langage Python,
 [Guido van Rossum](https://fr.wikipedia.org/wiki/Guido_van_Rossum),
 quitte ses fonctions de BDFL (*Benevolent Dictator for Life*). Après plus de 27 ans depuis la création de son langage, il veut
@@ -79,6 +89,9 @@ s'éloigner du cercle de décision sur le projet. Pour la suite, il
 laisse à la communauté le choix du mode de fonctionnement qu'elle veut mettre en
 place.
 
+**Liens**
+
+- [I'm basically giving myself a permanent vacation from being BDFL](https://mail.python.org/pipermail/python-committers/2018-July/005664.html)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17515492)
 
 <!--
