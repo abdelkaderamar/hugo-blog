@@ -9,7 +9,7 @@ title: 'C++14 : Résumé des nouveautés du langage (+Cheatsheet)'
 La norme C++14 qui a été standardisée il y a déjà quatre ans, est
 considérée comme mineure si on la compare au C++11 et le C++17. Dans ce post,
 je vais décrire brièvement les changements apportés au langage (mais pas la
-  STL). Des programmes exemples son disponible dans ce
+  STL). Des programmes exemples sont disponibles dans ce
   [projet](https://github.com/abdelkaderamar/cpp-samples/tree/master/src/c%2B%2B14).
 
 J'ai également réalisé une cheatsheet qui peut être télécharger ci-dessous :
