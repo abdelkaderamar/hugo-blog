@@ -2,15 +2,14 @@
 categories:
 - hackernews
 date: 2018-06-11T16:00:00Z
-tags:
-- hackernews
+tags: [ "hackernews" ]
 title: Hacker News Digest (02-06-2018 au 08-06-2018)
+toc: true
 ---
 
 <!--more-->
 
-Ma sélection personnelle des sujets de la semaine sur
-[Hacker News](https://news.ycombinator.com/). La semaine qui vient de s'écouler
+La semaine qui vient de s'écouler
 a vu la plupart des sujets tourner autour de l'acquisition de Github par
 Microsoft. Cette nouvelle a généré une myriades de sujets où les anti
 et les pro Microsoft ont échangé leurs arguments. Je n'ai pas retenu ces sujets car il y en avait tellement. J'ai gardé juste un sur les alternatives à Github.

@@ -2,33 +2,35 @@
 categories:
 - hackernews
 date: 2018-06-17T15:54:00Z
-tags:
-- hackernews
+tags: [ "hackernews" ]
 title: Hacker News Digest (09-06-2018 au 15-06-2018)
+toc: true
 ---
 
 <!--more-->
 
-Ma sélection personnelle des sujets de la semaine sur
-[Hacker News](https://news.ycombinator.com/)
-
-
-### [GitLab Web IDE](https://about.gitlab.com/2018/06/15/introducing-gitlab-s-integrated-development-environment/)
+# GitLab Web IDE
 Gitlab annonce son nouvel IDE Web. Pour l'instant c'est un simple éditeur et un gestionnaire Git, mais selon l'annonce d'autres fonctionnalités sont à venir. Le lien suivant [awesome-online-ide](https://github.com/styfle/awesome-online-ide) contient une liste
 des IDEs web disponible.
 
+**Liens**
+
+- [GitLab Web IDE](https://about.gitlab.com/2018/06/15/introducing-gitlab-s-integrated-development-environment/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17321921)
 
 
 
-### [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)
+# Alternatives to Google Products
 
 Après l'acquisition la semaine dernière de Github par Microsoft et la prolifération des articles sur les alternatives possible à Github,
 cet article traite des alternatives aux services de Google (recherche, mail, cloud, chrome, youtube, analytics, maps, play store, calendar). Le sujet a été très populaire dans la communauté HN avec plus de 500 commentaires.
 
+**Liens**
+
+- [Alternatives to Google Products](https://restoreprivacy.com/google-alternatives/)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17280558)
 
-### [What do Unix command names stand for?](http://www.unixguide.net/unix/faq/1.3.shtml)
+# What do Unix command names stand for?
 
 Un petit article sur certaines commandes Unix et leurs signification.
 
@@ -52,41 +54,58 @@ Un petit article sur certaines commandes Unix et leurs signification.
 | du | disk usage | |
 | less | less is more | une blague à propos de more |
 
+**Liens**
+
+- [What do Unix command names stand for?](http://www.unixguide.net/unix/faq/1.3.shtml)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17323753)
 
-### [Linux is Obsolete (1992)](https://groups.google.com/forum/#!topic/comp.os.minix/wlhw16QWltI%5B1-25%5D)
+# Linux is Obsolete (1992)
 
 Ce n'est pas nouveau sujet, il a même 26 ans. On retrouve dans cette discussion le débat soulevé par Monsieur Andrew Tanenbaum au sujet
 des systèmes d'exploitation monolithiques et les systèmes à base de micro-noyau. Autrement c'était une comparaison entre Linux et le système de Tanenbaum Minix. La suite des évènements a donné raison à Linus Torvalds et c'est le système Linux qui a gagné cette bataille. Un extrait de la réponse de Tanenbaum à Torvalds :
 
 > I still maintain the point that designing a monolithic kernel in 1991 is a fundamental error.  Be thankful you are not my student.  You would not get a high grade for such a design :-)
 
+**Liens**
+
+- [Linux is Obsolete (1992)](https://groups.google.com/forum/#!topic/comp.os.minix/wlhw16QWltI%5B1-25%5D)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17294907)
 
-### [Office 365 is being completely rewritten in JavaScript](https://twitter.com/thelarkinn/status/1006746626617008128?s=21)
+# Office 365 is being completely rewritten in JavaScript
 
 L'annonce de Sean Larkin sur la réécriture complète d'Office 365 en JavaScript ou pour être plus précis en *React Native*. L'auteur du tweet, qui est un *Program Manager* chez Microsoft, est intervenu sur [Reddit](https://www.reddit.com/r/programming/comments/8qqhlz/comment/e0ll1dt/) et sur un autre sujet [HN](https://news.ycombinator.com/item?id=17321985) pour apporter plus de clarifications. Microsoft n'abandonne pas les autres langages et les APIs et les outils continueront d'être développés en C++/C# ou d'autres langages.
 
+**Liens**
+
+- [Office 365 is being completely rewritten in JavaScript](https://twitter.com/thelarkinn/status/1006746626617008128?s=21)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17300893)
 
-
-
-### [Intel 28-core fantasy vs. AMD 32-core reality](https://www.techspot.com/news/75009-intel-28-core-fantasy-vs-amd-32-core.html)
+# Intel 28-core fantasy vs. AMD 32-core reality
 
 L'histoire incroyable sur la façon dont Intel a créé une diversion un jour avant la présentation par AMD au Computex 2018. Dans le secteur des HEDT (*High End DeskTop*), AMD avait prévu de présenter un CPU de 32 coeurs cadencés à 3 GHZ (jusqu'à 3.4GHZ), mais un jour
 avant, Intel a présenté un CPU de 28 coeurs cadencés à 5 GHZ. Le problème est que cette démonstration n'avait d'autre objectif que voler la vedette à AMD en présentant une démo d'un produit non fini avec des CPUs overclockés au maximum, intégrés à des cartes avec une puissance électrique extrême et un refroidissement particulier. Intel a réagi à l'article en indiquant que c'est bien un produit qui est en cours de développement et non une simple démo pour essayer de masquer l'exploit d'AMD. Dans tous les cas, ce dernier prévoit de livrer ses nouveaux processeurs pour le mois d'Août 2018.
 
+**Liens**
+
+- [Intel 28-core fantasy vs. AMD 32-core reality](https://www.techspot.com/news/75009-intel-28-core-fantasy-vs-amd-32-core.html)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17280757)
 
 
-### [Ask HN: What has the past 12 months taught you?](https://news.ycombinator.com/item?id=17316120)
+# Ask HN: What has the past 12 months taught you?
 Les réponses sont très variées. Néanmoins, la tendance est plutôt sur l'importance des choses de la vie qui sont en dehors des technologies.
 
+**Liens**
 
-### [GIF for CLI](https://github.com/google/gif-for-cli)
+- [Ask HN: What has the past 12 months taught you?](https://news.ycombinator.com/item?id=17316120)
+
+
+# GIF for CLI
 
 Un outil pour transformer des GIFs animés ou des vidéos en une animation ASCII art.
 
+**Liens**
+
+- [GIF for CLI](https://github.com/google/gif-for-cli)
 - [Commentaires HN](https://news.ycombinator.com/item?id=17313090)
 
 <!--
