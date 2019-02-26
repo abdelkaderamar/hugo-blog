@@ -6,6 +6,7 @@ classes: wide
 date: 2018-06-13T23:48:00Z
 tags: [ "CPP", "CPP17" ]
 title: 'C++17 : Fold Expressions'
+draft: true
 ---
 
 Le C++ a introduit dans la norme C++11 les *variadic templates* qui permettent

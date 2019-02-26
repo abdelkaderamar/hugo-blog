@@ -5,6 +5,7 @@ date: 2018-07-15T16:35:00Z
 tags: ["hackernews"]
 title: Hacker News Digest (07-07-2018 au 13-07-2018)
 toc: true
+draft: true
 ---
 
 <!--more-->

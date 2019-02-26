@@ -1,4 +1,5 @@
 ---
+draft: true
 date: 2018-07-22T12:00:00Z
 tags: [ "hackernews" ]
 title: Hacker News Digest (14-07-2018 au 20-07-2018)

@@ -6,6 +6,7 @@ classes: wide
 date: 2018-05-16T21:30:00Z
 tags: ["CPP", "Boost"]
 title: Utilisation de Boost Multi-index
+draft: true
 ---
 
 # Introduction

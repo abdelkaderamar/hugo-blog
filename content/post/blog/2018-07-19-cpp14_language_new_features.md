@@ -4,6 +4,7 @@ categories:
 date: 2018-07-19T17:15:00Z
 tags: [ 'CPP', 'CPP14' ]
 title: 'C++14 : Résumé des nouveautés du langage (+Cheatsheet)'
+draft: true
 ---
 
 La norme C++14 qui a été standardisée il y a déjà quatre ans, est

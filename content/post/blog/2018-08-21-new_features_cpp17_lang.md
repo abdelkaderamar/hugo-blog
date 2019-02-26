@@ -4,6 +4,7 @@ categories:
 date: 2018-08-21T10:00:00Z
 tags: ["CPP", "CPP17"]
 title: 'C++17 : Résumé des nouveautés du langage (+Cheatsheet)'
+draft: true
 ---
 
 Ce post est similaire à celui déjà posté sur le [C++14](https://abdelkaderamar.github.io/post/blog/2018/07/c--14--résumé-des-nouveautés-du-langage--cheatsheet/)
